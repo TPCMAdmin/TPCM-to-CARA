@@ -2,7 +2,7 @@
 
 `Version 1.0`
 
-This is a Jupyter Notebook created by the TPCM team that will convert a TPCM dataset (.xls) to a [CARA](https://apps.fs.usda.gov/pals/) supported dataset (.csv). 
+This is a Jupyter Notebook created by the TPCM team that will convert a TPCM dataset (.xls) to a [CARA](https://cara.ecosystem-management.org/) supported dataset (.csv). 
 
 ## Getting Started
 
