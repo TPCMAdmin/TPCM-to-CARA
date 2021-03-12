@@ -18,7 +18,7 @@ These instructions will get you a copy of the Jupyter Notebook up and running on
 
 ### Installing python modules to a new ArcGIS Pro Python environment
 
-If you have not created a new python environment or have not installed usaddress read these instructions before going to deployment.
+If you have not created a new python environment or have not installed `usaddress` read these instructions before going to deployment.
 
 1. Open ArcGIS Pro.
 
