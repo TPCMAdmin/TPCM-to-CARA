@@ -10,10 +10,10 @@ These instructions will get you a copy of the Jupyter Notebook up and running on
 
 ### Prerequisites
 
-- `ArcGIS Online Account with ArcGIS Pro License and USFS Content Publisher capabilities`
+- `ArcGIS Online Account with ArcGIS Pro License`
 - `ArcGIS Pro 2.4.1 or above`
 - `usaddress python module`
-- `TPCM project comments`
+- `TPCM project comments in .xls format`
 - `CARA access`
 
 ### Installing python modules to a new ArcGIS Pro Python environment
