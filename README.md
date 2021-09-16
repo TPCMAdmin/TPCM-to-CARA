@@ -26,13 +26,15 @@ If you have not created a new python environment or have not installed `usaddres
 
 3. Create a new environment for installing packages. Click Project > Python > Manage Environments. Inside manage environments click the image of two dashed boxes below clone next to arcgispro-py3 to clone the default environment. Name the environment `tpcmpro-env`.
 
+4. Switch to your newly created python environment inside of ArcGIS Pro by making sure the bubble under active is marked. Click OK and Close out of ArcGIS Pro.
+
 5. Open your Windows Start Menu and type `python command prompt`. Open the Python Command Prompt.
 
-6. Inside of the Python Command Prompt type `activate tpcmpro-env` and hit enter. *Note in later versions of Conda you may need to type `conda activate`.*
+6. Inside of the Python Command Prompt make sure you are in the `tpcmpro-env`. This will display after your current working directory.
 
-7. Once the environment is activated type `pip install usaddress` and hit enter.
+7. Type `pip install usaddress` and hit enter.
 
-You now have an environment with usaddress installed and are ready to run the Jupyter Notebook.
+You now have an environment with usaddress installed and are ready to run the Jupyter Notebook. Move on to Deployment.
 
 ### Deployment
 
